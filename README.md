@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, SQL  
+- **Languages:** JavaScript (ES6+), TypeScript, SQL  
 - **Frontend:** React.js, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Redux Toolkit  
 - **Backend:** Node.js, Express.js, Prisma ORM, Socket.io  
 - **Databases:** MongoDB, PostgreSQL, Redis  
