@@ -31,9 +31,4 @@
   *Tech stack: MERN, Socket.io, MongoDB*  
   [View Repository](https://github.com/Dharmendrakumar-Patel/iot-device-manager)
 
-- **CRM Platform**  
-  Automating influencer outreach workflows with reusable React components.  
-  *Tech stack: React.js, Node.js, MongoDB*  
-  [View Repository](https://github.com/Dharmendrakumar-Patel/crm-platform)
-
 ---
