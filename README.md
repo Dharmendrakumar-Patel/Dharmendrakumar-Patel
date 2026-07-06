@@ -28,7 +28,7 @@
 
 - **IoT Device Manager**  
   MERN application for monitoring IoT assets with live tracking and operational insights.  
-  *Tech stack: MERN, MongoDB* 
+  *Tech stack: MERN, MongoDB*       
   [View Repository](https://github.com/Dharmendrakumar-Patel/android-device-management-web)
 
 ---
